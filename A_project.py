@@ -256,7 +256,7 @@ labels_list = []
 label = Label(root, text="Enter an arithmetic expression", font=("times", 20), fg="white", bg="#4e3620")
 label.pack(pady=5)
 
-label = Label(root, text="Use only letters either uppercase or lowercase", font=("times", 10), fg="white", bg="#4e3620")
+label = Label(root, text="Use only letters, either uppercase or lowercase", font=("times", 10), fg="white", bg="#4e3620")
 label.pack(pady=5)
 
 label = Label(root, text="Follow this format", font=("times", 10), fg="white", bg="#4e3620")
