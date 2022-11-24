@@ -2,7 +2,7 @@
 ## Admission Numbers  
 ### `122787` `123700` `100036` `116847` `123072`  
 
-This repository is for compiler construction lab activities and The Mini-project(Three Code Generator). 
+This repository is for compiler construction lab activities and The Mini-project(**Three Code Generator**). 
 
 To view a demo of our mini-project click the link below
 https://drive.google.com/file/d/1idQSrYZLxEv0j_G5TXU3cYLAt05R6IyZ/view?usp=sharing
